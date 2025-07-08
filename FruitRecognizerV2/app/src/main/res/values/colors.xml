@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu nền chính (xanh than) -->
+    <color name="dark_blue">#1F2231</color>
+    <!-- Màu nền phụ (xanh than nhạt hơn cho các thẻ) -->
+    <color name="light_dark_blue">#2A2D3E</color>
+    <!-- Màu nhấn (cam/vàng) -->
+    <color name="accent_orange">#FF9800</color>
+    <!-- Màu chữ chính -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <!-- Màu chữ phụ -->
+    <color name="text_secondary_dark">#A7A8B1</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Đây là theme được tạo tự động bởi Android Studio cho dự án mới.
+        Nó kế thừa từ "Theme.Material3.DayNight.NoActionBar",
+        hoàn toàn tương thích với AppCompatActivity.
+    -->
+    <style name="Theme.FruitRecognizerV2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Bạn có thể tùy chỉnh màu sắc ở đây nếu muốn -->
+    </style>
+</resources>
